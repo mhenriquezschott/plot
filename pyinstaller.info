@@ -1,0 +1,1 @@
+pyinstaller --onefile src/main.py --hidden-import=vtkmodules,vtkmodules.all,vtkmodules.qt.QVTKRenderWindowInteractor,vtkmodules.util,vtkmodules.util.numpy_support,vtkmodules.numpy_interface

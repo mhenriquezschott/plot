@@ -1,0 +1,5 @@
+vtk
+sqlite3
+PyQt5
+pycountry
+
